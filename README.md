@@ -37,4 +37,4 @@ It keeps things simple: quick to set up, light on resources, and easy to use day
 > Pin it to your taskbar for quick access.
 
 ## A note on usage
-> Use responsibly. This page is an independent listing and is not affiliated with the original vendor.                
+> Use responsibly. This page is an independent listing and is not affiliated with the original vendor.                 
